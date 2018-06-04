@@ -1,4 +1,7 @@
 
+body{
+  position: relative;
+}
 
 .jumbotron{
   	background:-webkit-gradient(linear, 80% 20%, 10% 21%, from(#6B81A2), to(#FF130A));

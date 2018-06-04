@@ -12,7 +12,7 @@
 /db/*.sqlite3-journal
 
 # Ignore all logfiles and tempfiles.
-/log/*
+/log/*.log
 /tmp/*
 !/log/.keep
 !/tmp/.keep
@@ -21,3 +21,12 @@
 /yarn-error.log
 
 .byebug_history
+
+database. yml
+doc/
+*.swp
+.project
+.DS_Store
+.idea
+secret
+
